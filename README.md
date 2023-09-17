@@ -11,7 +11,6 @@ This project is focused on scraping data from the [HypeAuditor website](https://
 - [Usage](#usage)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
-- [Data Analysis](#data-analysis)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -63,19 +62,6 @@ The data collected includes the following columns:
 
 
 Data cleaning is an essential step to ensure accurate analysis. We handle missing values and normalize categories for better analysis.
-
-## Data Analysis
-
-
-We perform various analyses on the collected data, including:
-
-- Ranking distribution
-- Popular categories
-- Subscribers and visit trends
-- Geographic distribution
-- Engagement metrics
-
-You can explore these analyses in the Jupyter Notebook `data_analysis.ipynb`.
 
 ## Contributing
 
