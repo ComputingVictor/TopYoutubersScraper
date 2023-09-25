@@ -36,14 +36,6 @@ You can install the required Python packages using the following command:
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
-
-You can run the data scraping and analysis by executing the main Python script:
-
-```bash
-python scrape_data.py
-```
-
 ## Data
 
 The data collected includes the following columns:
